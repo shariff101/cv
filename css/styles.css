@@ -1,0 +1,24 @@
+/* this is called external CSS */
+body {
+  background-color: #ECC5FB;
+}
+
+hr {
+  background-color: grey;
+  border-style: none;
+  border-width: 5px;
+  border-top-style: dotted;
+  width: 5%;
+}
+
+img {
+  height: 200px;
+}
+
+h1 {
+  color: #DFF6FF;
+}
+
+h3 {
+  color: #DFF6FF;
+}
